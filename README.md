@@ -40,7 +40,7 @@ Kullanıcıların takvim üzerinde çalışma günleri ve saatlerini işaretleye
 
 ## 📅 **Şu Ana Kadar Yapılanlar**
 
-- Proje deposu ve klasör yapısı hazırlandı.
+- Proje deposu ve klasör yapısı hazırlandı..
 
 ---
 
