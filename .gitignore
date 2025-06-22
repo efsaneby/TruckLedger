@@ -1,0 +1,22 @@
+# ASP.NET / .NET Core
+**/bin/
+**/obj/
+**/*.user
+**/*.vspscc
+**/*.vssscc
+
+# Angular / Node.js
+**/node_modules/
+**/dist/
+**/out-tsc/
+**/npm-debug.log
+**/yarn-error.log
+**/.angular/cache/
+**/package-lock.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/*
