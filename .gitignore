@@ -14,9 +14,11 @@
 **/.angular/cache/
 **/package-lock.json
 
+
 # OS
 .DS_Store
 Thumbs.db
 
 # VS Code
 .vscode/*
+.vs/
